@@ -9,7 +9,7 @@ export default function App() {
     <View>
       <NavigatorBar />
        <Homepage />
-      <StatusBar style="default" backgroundColor = "#C40233" />
+      <StatusBar style="default" backgroundColor = "#271609" />
     </View>
   );
 }

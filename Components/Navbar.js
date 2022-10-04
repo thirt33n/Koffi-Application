@@ -5,7 +5,7 @@ import AppLoading from 'expo-app-loading';
 import { useFonts, GrandHotel_400Regular} from '@expo-google-fonts/grand-hotel';
 
 const titleConfig = {
-    title: 'Newstagram',
+    title: 'The Koffi',
   };
 
 export default function  NavigatorBar(){
@@ -20,7 +20,7 @@ export default function  NavigatorBar(){
 
         return(
             <View style={styles.container}>
-              <Text style={styles.fontss}>Newstagram</Text>
+              <Text style={styles.fontss}>The Koffi</Text>
             </View>
         )
 
@@ -33,7 +33,7 @@ export default function  NavigatorBar(){
 const styles = StyleSheet.create({
 
     container: {
-        backgroundColor: '#C40233',
+        backgroundColor: '#271609',
         display: 'flex',
         flexDirection: 'row',
         justifyContent: 'center',
@@ -46,8 +46,8 @@ const styles = StyleSheet.create({
         
     },
     fontss: {
-        color:'white',
-        fontSize: 30,
+        color:'#b17538',
+        fontSize: 34,
         fontWeight: '100',
         fontFamily: 'GrandHotel_400Regular',
 

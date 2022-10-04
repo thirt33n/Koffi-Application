@@ -5,6 +5,14 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "5bb4481c-f263-4823-9c4c-8797cacac1a8"
+      }
+    },
+    "android": {
+      "package": "com.siddharth_pradeep.NewsApp"
+    }
   }
 }

@@ -1,12 +1,6 @@
-#              <h1 align='center'> Newstagram
+#              <h1 align='center'> Koffi 
 
-Newstagram is a react native based application that fetches News articles and images from the New york times API and lets the user like their favourite news articles present in their feed just like Instagram.
-
-
-
-https://user-images.githubusercontent.com/55974622/163720433-e58eb165-d8d6-4fa9-ac5e-03cacc9282ef.mp4
+Koffi is a an android application built using react native for the purpose of helping user to place their orders for an IoT-based coffee vending machine through their phones before being physically present at the machine 
 
 
-## Author
-  
-Siddharth Pradeep
+
